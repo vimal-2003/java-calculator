@@ -123,9 +123,7 @@ public class calculator {
 			     System.out.println("n1 ^n2 = " +nn);
 			     break;
 		default :System.out.println("WARNING !ENTER CORRECT CHOICE");
-				 break;
-			     
+				 break;     
 		}
 	}
-
 }
