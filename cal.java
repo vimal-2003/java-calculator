@@ -15,6 +15,7 @@ public class calculator {
 		float p = a * b ;
 		return p;
 	}
+	
 	float div(float a , float b){
 		return a/b;
 	}
