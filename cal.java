@@ -5,6 +5,7 @@ public class calculator {
 		float s = a + b ;
 		return s;
 	}
+	
 	float sb(float a , float b ){
 		float s = a - b;
 		return s;
