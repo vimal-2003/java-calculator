@@ -19,6 +19,7 @@ public class calculator {
 	float div(float a , float b){
 		return a/b;
 	}
+	
 	float sqrt(float a){
 		return (float) Math.sqrt(a);
 	}
