@@ -56,6 +56,8 @@ public class calculator {
 		 		 break;
 		}
 	}
+
+	
 	double ln(float a){
 		return Math.log(a);
 	}
