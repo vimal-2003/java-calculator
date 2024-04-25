@@ -67,6 +67,8 @@ public class calculator {
 	double nroot(float x , float y){
 		return Math.pow(x , 1.0/y);
 	}
+
+	
 	public static void main(String[] args) {
 		System.out.println("ENTER THE OPERATION");
 		System.out.println("1. SUM\n2. MINUS\n3. PRODUCT\n4. DIVISION\n5. SQUARE_ROOT\n6. CUBE_ROOT\n7. TRIGONOMETRIC_OPERATION");
