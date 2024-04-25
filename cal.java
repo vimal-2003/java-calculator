@@ -25,6 +25,8 @@ public class calculator {
 	float sqrt(float a){
 		return (float) Math.sqrt(a);
 	}
+
+	
 	float curt(float a){
 		return (float) Math.cbrt(a);
 		}
